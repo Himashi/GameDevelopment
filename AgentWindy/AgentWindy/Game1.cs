@@ -31,7 +31,7 @@ namespace AgentWindy
 
         Vector2 background;
         Vector2 timeRemain, countDownPosition;
-        int s = 0;
+        
         int fireTime, startTime, secondPassed, timeRemains;
         int agentLife = 5;
         int dragonLife = 15;
